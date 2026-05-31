@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tp.naza.iml" filepath="$PROJECT_DIR$/tp.naza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BibliotecaBasica.iml" filepath="$PROJECT_DIR$/BibliotecaBasica.iml" />
     </modules>
   </component>
 </project>
