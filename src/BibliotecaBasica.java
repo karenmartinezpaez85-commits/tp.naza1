@@ -8,7 +8,7 @@ public class BibliotecaBasica {
     // 1. Datos para conectar a PostgreSQL
     String url = "jdbc:postgresql://localhost:5433/biblioteca";
     String usuario = "postgres";
-    String clave = "colegio2026"; // <-- CAMBIA ESTO POR TU CLAVE REAL
+    String clave = "colegio2026";
 
     try {
       // 2. Abrir conexión con la base de datos
